@@ -1,6 +1,5 @@
 ---
 permalink: "/sidebar_example/"
-layout: default
 title: Example page with sidebar content
 sidebar:
   - title: "Title"
