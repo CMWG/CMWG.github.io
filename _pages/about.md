@@ -1,9 +1,11 @@
 ---
-permalink: "/sidebar_example/"
-layout: home
-author_profile: true
-header:
-  video:
-    id: spring%20contact%20with%20friction.mp4
-    provider: local
+permalink: "/about/"
+layout: default
+sidebar:
+  title: "Sample Title"
+  nav: sidebar-sample
 ---
+
+my text
+
+
